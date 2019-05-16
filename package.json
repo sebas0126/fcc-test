@@ -2,6 +2,6 @@
   "name": "fcc-test",
   "version": 0.1,
   "author": "Sebastian Vasquez",
-  "description": "A project that does something awesome",
   "keywords": [ "freecodecamp", "related", "words" ],
+  "description": "A project that does something awesome",
 }
