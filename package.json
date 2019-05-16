@@ -2,5 +2,6 @@
   "name": "fcc-test",
   "version": 0.1,
   "author": "Sebastian Vasquez",
-  "description": "A project that does something awesome"
+  "description": "A project that does something awesome",
+  "keywords": [ "descriptive", "related", "words" ],
 }
