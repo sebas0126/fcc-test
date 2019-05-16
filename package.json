@@ -1,5 +1,6 @@
 {
   "name": "fcc-test",
   "version": 0.1,
-  "author": "Sebastian Vasquez"
+  "author": "Sebastian Vasquez",
+  "description": "A project that does something awesome",
 }
